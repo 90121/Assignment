@@ -1,0 +1,85 @@
+commit dfd3d73a3d32f6dfdb22a6816a564afca2b676e0
+Author: venkat narwade <90121.narwade@students.itu.edu>
+Date:   Fri Apr 29 01:09:31 2016 +0530
+
+    deleting file2.txt
+
+diff --git a/file1.txt b/file1.txt
+index 28df7f7..68adce2 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1,4 +1,5 @@
+ venkat rao narwade 
+ software engineering
+ favourite movie Titanic
+-favourite resaurent kfc
+\ No newline at end of file
++favourite resaurent kfc
++favourite color black
+\ No newline at end of file
+
+commit 330f2023d1dddf787611fe3493b8666e1c35616d
+Author: venkat narwade <90121.narwade@students.itu.edu>
+Date:   Fri Apr 29 00:56:45 2016 +0530
+
+    added expected graduaution date and job title
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..57d11a6
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++jan 2017 Tester
+\ No newline at end of file
+
+commit ce3a16996d97c6b80c9e7a8628d8b1ed10f34154
+Author: venkat narwade <90121.narwade@students.itu.edu>
+Date:   Fri Apr 29 00:31:54 2016 +0530
+
+    added favourite restaurent and movie
+
+diff --git a/file1.txt b/file1.txt
+index 02f60b1..28df7f7 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1,2 +1,4 @@
+ venkat rao narwade 
+-software engineering
+\ No newline at end of file
++software engineering
++favourite movie Titanic
++favourite resaurent kfc
+\ No newline at end of file
+
+commit c4f665018f4367cc48e54b1fe302bc107c8a592c
+Author: venkat narwade <90121.narwade@students.itu.edu>
+Date:   Fri Apr 29 00:23:41 2016 +0530
+
+    now has my major
+
+diff --git a/file1.txt b/file1.txt
+index 57c3a87..02f60b1 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1,2 @@
+-venkat rao narwade 90121
+\ No newline at end of file
++venkat rao narwade 
++software engineering
+\ No newline at end of file
+
+commit bc1e9f48fc9509a41c845bb92be01b158d61da25
+Author: venkat narwade <90121.narwade@students.itu.edu>
+Date:   Fri Apr 29 00:08:33 2016 +0530
+
+    commiting new file venkat narwade
+
+diff --git a/file1.txt b/file1.txt
+new file mode 100644
+index 0000000..57c3a87
+--- /dev/null
++++ b/file1.txt
+@@ -0,0 +1 @@
++venkat rao narwade 90121
+\ No newline at end of file
